@@ -2,4 +2,4 @@
 ### 
 #### By Ayeni Abimbola
 #### Introduction
-_This Project
+_This Project provides books supplier management system.
