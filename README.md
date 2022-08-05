@@ -50,3 +50,14 @@
 
 #### Limitation
 * This project is still in progress.  Thank you <br>
+
+#### Others
+* My initial concept  <br>
+<img src = "conceptual ERD of BSMS1.jpg">
+
+<img src = "conceptual ERD of BSMS2.jpg">
+
+<img src = "Logical ERD of BSMS1.jpg">
+
+
+<img src = "Logical ERD of BSMS2.jpg">
