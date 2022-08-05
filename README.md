@@ -14,7 +14,7 @@
 * Delete from table
 
 #### The Structure of the Project <br>
-<img src =  "/[Project Structure.jpg](https://github.com/Devbimb/book-supplier-system/blob/main/Project%20Structure.jpg)" 
+<img src = "/Project Structure.jpg" 
 #### Introduction
 _This Project provides books supplier management system._ <br>
 **Features**
