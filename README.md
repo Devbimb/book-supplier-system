@@ -44,5 +44,9 @@
 <img src = "Book Junit Test Failed.jpg">
 ### The test failed, please bear with me, I am still working on it
 
+#### How to use
+* Run on Port 8086 <br>
+* Use Spring Boot
 
-* add new books <br>
+#### Limitation
+* This project is still in progress.  Thank you <br>
