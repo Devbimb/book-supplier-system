@@ -14,7 +14,7 @@
 * Delete from table
 
 #### The Structure of the Project <br>
-<img src =  "Project Structure.jpg" 
+<img src =  "/Project Structure.jpg" 
 #### Introduction
 _This Project provides books supplier management system._ <br>
 **Features**
