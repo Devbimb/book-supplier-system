@@ -12,6 +12,10 @@
 * Read table
 * Update table
 * Delete from table
+
+#### The Structure of the Project <br>
+
+
 #### By Ayeni Abimbola <img src =  "bim.png" width "100"
 #### Introduction
 _This Project provides books supplier management system._ <br>
