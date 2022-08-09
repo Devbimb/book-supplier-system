@@ -55,7 +55,7 @@
 * IDE - Eclipse
 * Tomcat
 * JQuery
-* MySQL (Wokbench)
+* MySQL (Wokbench 8.0 CE)
 * Git
 * GitHub
 
