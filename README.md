@@ -48,7 +48,7 @@
 ### The test failed, please bear with me, I am still working on it
 
 #### Tools and Technology Used
-* Spring Boot (sts-4.15.1.RELEASE)
+* Spring Boot (Spring Tool Suite, sts-4.15.1.RELEASE)
 * JDK - 1.8
 * Hibernate
 * Maven
