@@ -47,6 +47,19 @@
 <img src = "Book Junit Test Failed.jpg">
 ### The test failed, please bear with me, I am still working on it
 
+#### Tools and Technology Used
+* Spring Boot (sts-4.15.1.RELEASE)
+* JDK - 1.8
+* Hibernate
+* Maven
+* IDE - Eclipse
+* Tomcat
+* JQuery
+* MySQL (Wokbench)
+* Git
+* GitHub
+
+
 #### How to use
 * Run on Port 8086 <br>
 * Use Spring Boot
